@@ -96,7 +96,5 @@ A short outline of the optimizations we performed:
 
 ---
 
-### Conclusion
-The program implements multiple optimizations that focus on maximizing parallel execution, reducing redundant calculations, and managing resources efficiently. These strategies are designed to enhance the performance and scalability of the K-Means algorithm, particularly when dealing with large datasets or computationally expensive operations like distance calculations and centroid updates.
 ![processing](./hf_processing.png)
 ![accuracy](./hf_accuracy.png)
